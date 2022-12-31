@@ -1,6 +1,4 @@
-# BillCalculator
-I have made this, a Bill Calculator. Whenever you go out with your friends, you can use this to calculate amount per person.
-In this i have learnt about updating DOM using JS and some css styling.
+<h1>SplitIt</h1>
+Divide the bill fairly among friends and family.<br>
 
-![image](https://user-images.githubusercontent.com/117444846/205695071-dd13d474-493f-4b1b-816b-d9c8fb6a7697.png)
-
+![Bill1](https://user-images.githubusercontent.com/117444846/210134982-ac65f447-77fe-42be-b7d5-74719e10f076.png)
